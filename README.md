@@ -1,158 +1,128 @@
-<!-- ████████████████████████████████████████████████████████████
-     HOUDAIFA — GITHUB PROFILE README
-     Drop this file into a repo named exactly: Houdaifa1/Houdaifa1
-     GitHub will auto-render it as your profile page.
-     ████████████████████████████████████████████████████████████ -->
+<!-- ============================================================
+     HOUDAIFA1 — GITHUB PROFILE README
+     Repo: Houdaifa1/Houdaifa1  (must be public, same name as username)
+     ============================================================ -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     CINEMATIC HEADER — animated wave + gradient
-═══════════════════════════════════════════════════════════ -->
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,40:0a1628,75:0d2040,100:00d4ff&height=260&section=header&text=HOUDAIFA&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=◈%20SYSTEMS%20ENGINEER%20◈%2042%20NETWORK%20◈&descAlignY=62&descSize=15&animation=fadeIn&fontFamily=Courier%20New)](https://github.com/Houdaifa1)
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:080b14,30:0a1628,60:0d2040,100:00d4ff&height=220&section=header&text=HOUDAIFA&fontSize=72&fontColor=f0f6ff&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%2042%20NETWORK&descAlignY=68&descSize=16&animation=fadeIn&fontFamily=Courier)](https://github.com/Houdaifa1)
-
-<!-- ═══════════════════════════════════════════════════════════
-     ANIMATED TYPEWRITER
-═══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Systems+programmer+%7C+C+%2F+C%2B%2B+%2F+TypeScript;Building+shells%2C+servers+%26+3D+engines+from+scratch;42+Network+%E2%80%94+pushing+limits+one+project+at+a+time;Turning+coffee+into+kernel-level+software+%E2%98%95)](https://github.com/Houdaifa1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Building+shells+%26+3D+engines+from+raw+C;HTTP+servers+%7C+Docker+infra+%7C+Real-time+games;42+Network+—+turning+specs+into+working+systems;The+code+compiles.+Always.)](https://github.com/Houdaifa1)
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     THE TERMINAL — signature block
-═══════════════════════════════════════════════════════════ -->
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ~/Houdaifa1 $  whoami                                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NAME    →  Houdaifa                                        ║
-║   SCHOOL  →  42 Network                                      ║
-║   STACK   →  C · C++ · TypeScript · NestJS · Docker          ║
-║   CRAFT   →  Systems · Networking · Game Engines · DevOps    ║
-║   STATUS  →  [ ██████████████████░░ ] BUILDING               ║
-║                                                              ║
-║  ~/Houdaifa1 $  █                                            ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██╗  ██╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██╗███████╗█████╗  ║
+║   ██║  ██║██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║██╔════╝██╔══██╗ ║
+║   ███████║██║   ██║██║   ██║██║  ██║███████║██║█████╗  ███████║ ║
+║   ██╔══██║██║   ██║██║   ██║██║  ██║██╔══██║██║██╔══╝  ██╔══██║ ║
+║   ██║  ██║╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║██║     ██║  ██║ ║
+║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝ ║
+║                                                                  ║
+║   ▸ SCHOOL   42 Network                                          ║
+║   ▸ CRAFT    C · C++ · TypeScript · Docker · Linux               ║
+║   ▸ DOMAINS  Systems · Networking · Game Engines · DevOps        ║
+║   ▸ STATUS   [ ████████████████████░░░ ] ALWAYS BUILDING         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION DIVIDER
-═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0066ff&height=2&width=800" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%25" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FEATURED PROJECTS — handcrafted cards via HTML tables
-═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp;PROJECTS
+## ◈ &nbsp;PROJECTS
 
 <div align="center">
 
-| 🎮 ft_transcendence | 🐚 minishell |
-|---|---|
-| Real-time multiplayer air hockey · NestJS · Socket.io · Docker · CI/CD | POSIX shell from scratch · pipes · heredocs · signals |
-| [![transcendence](https://img.shields.io/badge/LIVE%20%40%20netpong.games-c084fc?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/fttranscendenceorganization/ft_transcendence) | [![minishell](https://img.shields.io/badge/VIEW%20SOURCE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/minishell) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🏰 cub3D | 🌐 webserv |
-|---|---|
-| Wolfenstein-style raycasting engine · C · DDA · textures · minimap | HTTP/1.1 server from scratch · C++ · poll() · CGI · zero deps |
-| [![cub3d](https://img.shields.io/badge/VIEW%20SOURCE-5ab4d6?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/cub3d) | [![webserv](https://img.shields.io/badge/VIEW%20SOURCE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/webserv) |
+### 🎮 &nbsp;ft_transcendence
+Real-time multiplayer air hockey · 4 arenas  
+NestJS · Socket.io · Docker · CI/CD · PostgreSQL
 
-| 🐳 inception | 🍝 philosophers |
-|---|---|
-| Docker infra · Nginx TLS · MariaDB · WordPress · custom networks | pthreads · mutexes · deadlock-free dining · zero data races |
-| [![inception](https://img.shields.io/badge/VIEW%20SOURCE-00d4ff?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Houdaifa1/inception) | [![philo](https://img.shields.io/badge/VIEW%20SOURCE-5ab4d6?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/philosophers) |
+[![LIVE @ netpong.games](https://img.shields.io/badge/◉%20LIVE%20@%20netpong.games-c084fc?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/fttranscendenceorganization/ft_transcendence)
 
-| 🔀 push_swap | 🕹 so_long |
-|---|---|
-| Sort with 2 stacks · O(n log n) · algorithm optimization · visualizer | 2D tile game · MinilibX · map parser · sprite rendering |
-| [![push_swap](https://img.shields.io/badge/VIEW%20SOURCE-7ec8e3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/push_swap) | [![solong](https://img.shields.io/badge/VIEW%20SOURCE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/so_long) |
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🐚 &nbsp;minishell
+POSIX shell from scratch · pipes · heredocs  
+signal handling · env expansion · builtins
 
-<br/>
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/minishell)
 
-<!-- ═══════════════════════════════════════════════════════════
-     CORE 42 REPOS — badge grid
-═══════════════════════════════════════════════════════════ -->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🌐 &nbsp;webserv
+HTTP/1.1 server · C++ · poll() · CGI  
+GET POST DELETE · chunked encoding · zero deps
 
-**── CORE LIBRARY PROJECTS ──**
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/webserv)
 
-[![libft](https://img.shields.io/badge/LIBFT-00d4ff?style=flat-square&logo=c&logoColor=black)](https://github.com/Houdaifa1/libft)
-[![ft_printf](https://img.shields.io/badge/FT__PRINTF-00d4ff?style=flat-square&logo=c&logoColor=black)](https://github.com/Houdaifa1/ft_printf)
-[![gnl](https://img.shields.io/badge/GET__NEXT__LINE-00d4ff?style=flat-square&logo=c&logoColor=black)](https://github.com/Houdaifa1/get_next_line)
-[![minitalk](https://img.shields.io/badge/MINITALK-5ab4d6?style=flat-square&logo=c&logoColor=black)](https://github.com/Houdaifa1/minitalk)
+</td>
+<td width="50%" valign="top">
 
-**── C++ MODULES ──**
+### 🏰 &nbsp;cub3D
+Wolfenstein raycaster · C · DDA algorithm  
+textures · minimap · smooth camera movement
 
-[![cpp00](https://img.shields.io/badge/CPP·00-ff6b35?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp00)
-[![cpp01](https://img.shields.io/badge/CPP·01-ff6b35?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp01)
-[![cpp02](https://img.shields.io/badge/CPP·02-ff6b35?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp02)
-[![cpp03](https://img.shields.io/badge/CPP·03-ff6b35?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp03)
-[![cpp04](https://img.shields.io/badge/CPP·04-ff6b35?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp04)
-[![cpp05](https://img.shields.io/badge/CPP·05-e05c2a?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp05)
-[![cpp06](https://img.shields.io/badge/CPP·06-e05c2a?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp06)
-[![cpp07](https://img.shields.io/badge/CPP·07-e05c2a?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp07)
-[![cpp08](https://img.shields.io/badge/CPP·08-c2421f?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp08)
-[![cpp09](https://img.shields.io/badge/CPP·09-c2421f?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Houdaifa1/cpp09)
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-5ab4d6?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/cub3d)
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🐳 &nbsp;inception
+Docker Compose infra · Nginx TLS/SSL  
+MariaDB volumes · WordPress · bridge networks
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0066ff&height=2&width=800" />
-</div>
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-00d4ff?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Houdaifa1/inception)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK — skill icons
-═══════════════════════════════════════════════════════════ -->
+### 🍝 &nbsp;philosophers
+Dining philosophers · pthreads · mutexes  
+deadlock-free · starvation-free · zero races
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="28"/> &nbsp;TECH STACK
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-5ab4d6?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/philosophers)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,react,nodejs,nestjs,docker,nginx,postgres,linux,bash,git,github,vite&perline=8&theme=dark)](https://github.com/Houdaifa1)
+### 🔀 &nbsp;push_swap
+Sort with 2 stacks · O(n log n)  
+radix sort · step-by-step visualizer
 
-</div>
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-7ec8e3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/push_swap)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0066ff&height=2&width=800" />
-</div>
+### 🕹 &nbsp;so_long
+2D tile game · MinilibX · C  
+map parser · sprite rendering · game loop
 
-<br/>
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Houdaifa1/so_long)
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB STATS — live cards in a row
-═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;STATS
-
-<div align="center">
-
-<a href="https://github.com/Houdaifa1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Houdaifa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080b14&title_color=00d4ff&icon_color=00d4ff&text_color=a8c4dc&ring_color=00d4ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houdaifa1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080b14&title_color=00d4ff&text_color=a8c4dc" />
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -160,43 +130,106 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Houdaifa1&theme=dark&hide_border=true&background=080b14&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8c4dc&dates=4a6480&currStreakNum=f0f6ff&sideNums=f0f6ff)](https://github.com/Houdaifa1)
+**`── CORE LIBRARY PROJECTS ──`**
+
+[![libft](https://img.shields.io/badge/LIBFT-0d1f38?style=flat-square&logo=c&logoColor=00d4ff&labelColor=0d1f38)](https://github.com/Houdaifa1/libft)
+[![ft_printf](https://img.shields.io/badge/FT__PRINTF-0d1f38?style=flat-square&logo=c&logoColor=00d4ff&labelColor=0d1f38)](https://github.com/Houdaifa1/ft_printf)
+[![gnl](https://img.shields.io/badge/GET__NEXT__LINE-0d1f38?style=flat-square&logo=c&logoColor=00d4ff&labelColor=0d1f38)](https://github.com/Houdaifa1/get_next_line)
+[![minitalk](https://img.shields.io/badge/MINITALK-0d1f38?style=flat-square&logo=c&logoColor=5ab4d6&labelColor=0d1f38)](https://github.com/Houdaifa1/minitalk)
+
+**`── C++ MODULES 00 → 09 ──`**
+
+[![cpp00](https://img.shields.io/badge/CPP_00-1a0e00?style=flat-square&logo=cplusplus&logoColor=ff6b35)](https://github.com/Houdaifa1/cpp00)
+[![cpp01](https://img.shields.io/badge/CPP_01-1a0e00?style=flat-square&logo=cplusplus&logoColor=ff6b35)](https://github.com/Houdaifa1/cpp01)
+[![cpp02](https://img.shields.io/badge/CPP_02-1a0e00?style=flat-square&logo=cplusplus&logoColor=ff6b35)](https://github.com/Houdaifa1/cpp02)
+[![cpp03](https://img.shields.io/badge/CPP_03-1a0e00?style=flat-square&logo=cplusplus&logoColor=ff6b35)](https://github.com/Houdaifa1/cpp03)
+[![cpp04](https://img.shields.io/badge/CPP_04-1a0e00?style=flat-square&logo=cplusplus&logoColor=ff6b35)](https://github.com/Houdaifa1/cpp04)
+[![cpp05](https://img.shields.io/badge/CPP_05-1a0e00?style=flat-square&logo=cplusplus&logoColor=e05c2a)](https://github.com/Houdaifa1/cpp05)
+[![cpp06](https://img.shields.io/badge/CPP_06-1a0e00?style=flat-square&logo=cplusplus&logoColor=e05c2a)](https://github.com/Houdaifa1/cpp06)
+[![cpp07](https://img.shields.io/badge/CPP_07-1a0e00?style=flat-square&logo=cplusplus&logoColor=e05c2a)](https://github.com/Houdaifa1/cpp07)
+[![cpp08](https://img.shields.io/badge/CPP_08-1a0e00?style=flat-square&logo=cplusplus&logoColor=c2421f)](https://github.com/Houdaifa1/cpp08)
+[![cpp09](https://img.shields.io/badge/CPP_09-1a0e00?style=flat-square&logo=cplusplus&logoColor=c2421f)](https://github.com/Houdaifa1/cpp09)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TROPHIES
-═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%25" />
+
+<br/>
+
+## ◈ &nbsp;TECH STACK
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Houdaifa1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Houdaifa1)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,react,nodejs,nestjs,docker,nginx,postgres,linux,bash,git,github,vite&perline=8&theme=dark)](https://github.com/Houdaifa1)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%25" />
+
+<br/>
+
+## ◈ &nbsp;STATS
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Houdaifa1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=060910&title_color=00d4ff&icon_color=00d4ff&text_color=a8c4dc&ring_color=00d4ff&hide=contribs" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houdaifa1&layout=compact&langs_count=8&hide_border=true&bg_color=060910&title_color=00d4ff&text_color=a8c4dc&hide=jupyter%20notebook" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0066ff&height=2&width=800" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Houdaifa1&theme=dark&hide_border=true&background=060910&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=a8c4dc&dates=4a6480&currStreakNum=ffffff&sideNums=ffffff&stroke=0d2040)](https://github.com/Houdaifa1)
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
-═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> &nbsp;CONTRIBUTIONS
+<!-- ── CREATIVE REPLACEMENT FOR BROKEN TROPHIES ──────────────
+     Hand-built achievement shelf using shields.io — 100% reliable,
+     never breaks, looks better than the trophy widget anyway
+─────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<!--
-  To activate the snake, create this GitHub Actions workflow in your
-  Houdaifa1/Houdaifa1 repo at:  .github/workflows/snake.yml
-  (full workflow pasted at the bottom of this file)
--->
+**`── ACHIEVEMENTS ──`**
+
+<br/>
+
+![42](https://img.shields.io/badge/42%20Network-STUDENT-00d4ff?style=for-the-badge&logo=42&logoColor=white&labelColor=060910)
+![C](https://img.shields.io/badge/C-MASTER-00d4ff?style=for-the-badge&logo=c&logoColor=white&labelColor=060910)
+![CPP](https://img.shields.io/badge/C%2B%2B-MODULES%2000→09-ff6b35?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a0e00)
+![Docker](https://img.shields.io/badge/Docker-INCEPTION-0066ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=060910)
+
+<br/>
+
+![Shell](https://img.shields.io/badge/POSIX%20Shell-BUILT%20FROM%20SCRATCH-5ab4d6?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=060910)
+![HTTP](https://img.shields.io/badge/HTTP%2F1.1-SERVER%20FROM%20SCRATCH-5ab4d6?style=for-the-badge&logo=nginx&logoColor=white&labelColor=060910)
+![3D](https://img.shields.io/badge/3D%20Engine-RAYCASTER%20FROM%20SCRATCH-7ec8e3?style=for-the-badge&logo=opengl&logoColor=white&labelColor=060910)
+
+<br/>
+
+![FullStack](https://img.shields.io/badge/Full%20Stack-REAL--TIME%20GAME%20DEPLOYED-c084fc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0030)
+![Threads](https://img.shields.io/badge/Concurrency-ZERO%20DEADLOCKS-00ff88?style=for-the-badge&logo=linux&logoColor=black&labelColor=001a0e)
+![Algo](https://img.shields.io/badge/Algorithms-O(n%20log%20n)%20SORT-ffc142?style=for-the-badge&logo=thealgorithms&logoColor=black&labelColor=1a1000)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%25" />
+
+<br/>
+
+## ◈ &nbsp;CONTRIBUTIONS
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Houdaifa1/Houdaifa1/output/github-contribution-grid-snake-dark.svg" />
@@ -209,103 +242,39 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0066ff&height=2&width=800" />
-</div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
-═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Houdaifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Houdaifa1&bg_color=080b14&color=00d4ff&line=0066ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&custom_title=COMMIT%20ACTIVITY)](https://github.com/Houdaifa1)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Houdaifa1&bg_color=060910&color=00d4ff&line=0066ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&custom_title=COMMIT%20HISTORY&radius=4)](https://github.com/Houdaifa1)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     PROFILE VIEWS + CONNECT
-═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%25" />
+
+<br/>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Houdaifa1&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?color=00d4ff&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHoudaifa1&style=flat-square&labelColor=060910)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/Houdaifa1?color=00d4ff&style=flat-square&label=FOLLOWERS&labelColor=060910)
 
 <br/><br/>
 
-**── CONNECT ──**
+**`── CONNECT ──`**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Houdaifa1)
-[![42 Profile](https://img.shields.io/badge/42%20NETWORK-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/hdrahm)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houdaifa)
+[![Portfolio](https://img.shields.io/badge/◉%20PORTFOLIO-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Houdaifa1)
+[![42](https://img.shields.io/badge/◉%2042%20INTRA-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/hdrahm)
+[![LinkedIn](https://img.shields.io/badge/◉%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houdaifa)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER WAVE
-═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0066ff,100:080b14&height=120&section=footer)](https://github.com/Houdaifa1)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0066ff,100:060910&height=130&section=footer)](https://github.com/Houdaifa1)
 
 </div>
-
----
-
-<!--
-════════════════════════════════════════════════════════════════
-  SNAKE WORKFLOW — save as .github/workflows/snake.yml
-  in your Houdaifa1/Houdaifa1 repo
-════════════════════════════════════════════════════════════════
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-════════════════════════════════════════════════════════════════
-  SETUP CHECKLIST
-════════════════════════════════════════════════════════════════
-
-  1. Create repo:  Houdaifa1/Houdaifa1   (same name as username)
-  2. Make it PUBLIC
-  3. Drop this README.md in the root
-  4. Create .github/workflows/snake.yml  (paste workflow above)
-  5. Run the workflow once manually from the Actions tab
-  6. Update the portfolio link badge to your real URL
-  7. Update the LinkedIn badge to your real LinkedIn URL
-  8. Update the 42 intra URL to your real profile
-
-════════════════════════════════════════════════════════════════
--->
