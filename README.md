@@ -7,6 +7,9 @@
 [![hdrahm's 42 stats](https://badge.mediaplus.ma/darkblue/hdrahm)](https://github.com/oakoudad/badge42)
 
 
+</div>
+---
+<br/>
 
 ## ◈ &nbsp;PROJECTS
 
@@ -229,9 +232,9 @@ map parser · sprite rendering · game loop
 
 **`── CONNECT ──`**
 
-[![Portfolio](https://img.shields.io/badge/◉%20PORTFOLIO-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Houdaifa1)
+[![Portfolio](https://img.shields.io/badge/◉%20PORTFOLIO-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://houdaifa.dev)
 [![42](https://img.shields.io/badge/◉%2042%20INTRA-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/hdrahm)
-[![LinkedIn](https://img.shields.io/badge/◉%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houdaifa)
+[![LinkedIn](https://img.shields.io/badge/◉%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houdaifa-drahm)
 
 </div>
 
