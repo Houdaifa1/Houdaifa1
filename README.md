@@ -6,27 +6,6 @@
 
 [![hdrahm's 42 stats](https://badge.mediaplus.ma/darkblue/hdrahm)](https://github.com/oakoudad/badge42)
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██╗  ██╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██╗███████╗█████╗  ║
-║   ██║  ██║██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║██╔════╝██╔══██╗ ║
-║   ███████║██║   ██║██║   ██║██║  ██║███████║██║█████╗  ███████║ ║
-║   ██╔══██║██║   ██║██║   ██║██║  ██║██╔══██║██║██╔══╝  ██╔══██║ ║
-║   ██║  ██║╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║██║     ██║  ██║ ║
-║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝ ║
-║                                                                  ║
-║   ▸ SCHOOL   42 Network · 1337                                   ║
-║   ▸ CRAFT    C · C++ · TypeScript · Docker · Linux               ║
-║   ▸ DOMAINS  Systems · Networking · Game Engines · DevOps        ║
-║   ▸ STATUS   [ ████████████████████░░░ ] ALWAYS BUILDING         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Building+shells+%26+3D+engines+from+raw+C;HTTP+servers+%7C+Docker+infra+%7C+Real-time+games;42+Network+—+turning+specs+into+working+systems;The+code+compiles.+Always.)](https://github.com/Houdaifa1)
 
 </div>
 
