@@ -191,19 +191,16 @@ map parser · sprite rendering · game loop
 
 <br/>
 
-<!-- ── CREATIVE REPLACEMENT FOR BROKEN TROPHIES ──────────────
-     Hand-built achievement shelf using shields.io — 100% reliable,
-     never breaks, looks better than the trophy widget anyway
-─────────────────────────────────────────────────────────── -->
-
 <div align="center">
 
 **`── ACHIEVEMENTS ──`**
 
 <br/>
 
-![42](https://img.shields.io/badge/42%20Network-STUDENT-00d4ff?style=for-the-badge&logo=42&logoColor=white&labelColor=060910)
-![C](https://img.shields.io/badge/C-MASTER-00d4ff?style=for-the-badge&logo=c&logoColor=white&labelColor=060910)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=hdrahm)](https://github.com/mohouyizme/1337-readme)
+
+<br/>
+
 ![CPP](https://img.shields.io/badge/C%2B%2B-MODULES%2000→09-ff6b35?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a0e00)
 ![Docker](https://img.shields.io/badge/Docker-INCEPTION-0066ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=060910)
 
@@ -278,4 +275,3 @@ map parser · sprite rendering · game loop
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0066ff,100:060910&height=130&section=footer)](https://github.com/Houdaifa1)
 
 </div>
-
