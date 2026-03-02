@@ -1,13 +1,10 @@
 <!-- ============================================================
      HOUDAIFA1 — GITHUB PROFILE README
-     Repo: Houdaifa1/Houdaifa1  (must be public, same name as username)
      ============================================================ -->
 
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,40:0a1628,75:0d2040,100:00d4ff&height=260&section=header&text=HOUDAIFA&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=◈%20SYSTEMS%20ENGINEER%20◈%2042%20NETWORK%20◈&descAlignY=62&descSize=15&animation=fadeIn&fontFamily=Courier%20New)](https://github.com/Houdaifa1)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Building+shells+%26+3D+engines+from+raw+C;HTTP+servers+%7C+Docker+infra+%7C+Real-time+games;42+Network+—+turning+specs+into+working+systems;The+code+compiles.+Always.)](https://github.com/Houdaifa1)
+[![hdrahm's 42 stats](https://badge.mediaplus.ma/darkblue/hdrahm)](https://github.com/oakoudad/badge42)
 
 <br/>
 
@@ -21,13 +18,15 @@
 ║   ██║  ██║╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║██║     ██║  ██║ ║
 ║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝ ║
 ║                                                                  ║
-║   ▸ SCHOOL   42 Network                                          ║
+║   ▸ SCHOOL   42 Network · 1337                                   ║
 ║   ▸ CRAFT    C · C++ · TypeScript · Docker · Linux               ║
 ║   ▸ DOMAINS  Systems · Networking · Game Engines · DevOps        ║
 ║   ▸ STATUS   [ ████████████████████░░░ ] ALWAYS BUILDING         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Building+shells+%26+3D+engines+from+raw+C;HTTP+servers+%7C+Docker+infra+%7C+Real-time+games;42+Network+—+turning+specs+into+working+systems;The+code+compiles.+Always.)](https://github.com/Houdaifa1)
 
 </div>
 
@@ -194,10 +193,6 @@ map parser · sprite rendering · game loop
 <div align="center">
 
 **`── ACHIEVEMENTS ──`**
-
-<br/>
-
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=hdrahm)](https://github.com/mohouyizme/1337-readme)
 
 <br/>
 
